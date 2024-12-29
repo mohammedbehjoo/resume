@@ -1,0 +1,10 @@
+# ignore log files
+*.log
+# ignore out files
+*.out
+# ignore gz files
+*.gz
+# ignore aux files
+*.aux
+# ignore pdf files
+*.pdf
