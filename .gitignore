@@ -8,3 +8,5 @@
 *.aux
 # ignore pdf files
 *.pdf
+# ignore .token
+.token
